@@ -13,10 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [Circles](https://github.com/aboutcircles) and [Gnosis Chain](https://github.com/gnosischain/tokenbridge) canonical bridges as smart contract and full stack engineer.
+- 🔭 I’m currently working on [Gnosis Chain](https://github.com/gnosischain/tokenbridge) canonical bridges as smart contract and full stack engineer, and also contributed for [Circles](https://github.com/aboutcircles).
 
 🏗️ Key Projects
+- Fast confirmation rule integration into Gnosis bridges - Work in Progress
+- Bridge Validator- Rewrite logic in [Rust](https://github.com/gnosischain/bridge-validator), update and maintain the [Javascript](https://github.com/gnosischain/tokenbridge) version.
 - [XMTP-Circles-App](https://github.com/zengzengzenghuy/xmtp-circles-miniapp) - Decentralized messaging app with Circles enabled
 - [USDS Migration](https://github.com/gnosischain/tokenbridge-contracts/blob/feat/xdai-usds-migration/USDSMigration.md) — Gnosis Canonical Bridge (xDAI Bridge)
-- [Hashi](https://github.com/gnosis/hashi) — EVM Blockhash Aggregator (Core Contributor)
+- [Hashi](https://github.com/gnosis/hashi) — EVM Blockhash Aggregator
+
+
+🧑‍🚀 Technical documentations can be found in  https://hackmd.io/@-adIpdkCSKa4XOtLHg41Kw
+
   
