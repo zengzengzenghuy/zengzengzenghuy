@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Gnosis Chain](https://github.com/gnosischain/tokenbridge) canonical bridges as smart contract and full stack engineer, and also contributed for [Circles](https://github.com/aboutcircles).
 
 🏗️ Key Projects
-- Fast confirmation rule integration into Gnosis bridges - [Work in Progress](https://docs.gnosischain.com/bridges/fast-confirmation-rule)
+- Fast confirmation rule integration into Gnosis bridges - [Docs](https://docs.gnosischain.com/bridges/fast-confirmation-rule)- 1st production in Ethereum ecosystem, bridge time from 13mins to 24s.
 - Bridge Validator- Rewrite logic in [Rust](https://github.com/gnosischain/bridge-validator), update and maintain the [Javascript](https://github.com/gnosischain/tokenbridge) version.
 - [XMTP-Circles-App](https://github.com/zengzengzenghuy/xmtp-circles-miniapp) - Decentralized messaging app with Circles enabled
 - [USDS Migration](https://github.com/gnosischain/tokenbridge-contracts/blob/feat/xdai-usds-migration/USDSMigration.md) — Gnosis Canonical Bridge (xDAI Bridge)
